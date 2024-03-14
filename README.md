@@ -2,7 +2,9 @@
 
 ## objective
 
-We were given a two part assigment to scrape data from a website regarding Martian weather and news
+Deliverable 1: A Jupyter notebook containing code that scrapes the Mars news titles and preview text.
+
+Deliverable 2: A Jupyter notebook containing code that scrapes the Mars weather data and that cleans, visualizes, and analyzes that data.
 
 ## sources
 
